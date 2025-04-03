@@ -1,0 +1,122 @@
+[
+    {
+        "type": "Sell",
+        "image": "https://cdn-icons-png.flaticon.com/512/3081/3081918.png",
+        "producttype": "Glass Bottles",
+        "price": "500 LAK/kg",
+        "quality": "Fair",
+        "amount": 500,
+        "unit": "kg",
+        "location": "Dongpalan, Sisattanak",
+        "availability": "Now",
+        "des": "Some bottles have labels."
+    },
+    {
+        "type": "Donate",
+        "image": "https://cdn-icons-png.flaticon.com/512/3771/3771473.png",
+        "producttype": "Cardboard",
+        "price": "Free",
+        "quality": "Good",
+        "amount": 1200,
+        "unit": "kg",
+        "location": "Thatluang, Xaysettha",
+        "availability": "Next Week",
+        "des": "Dry and clean cardboard."
+    },
+    {
+        "type": "Sell",
+        "image": "https://cdn-icons-png.flaticon.com/512/3132/3132693.png",
+        "producttype": "Scrap Metal",
+        "price": "700 LAK/kg",
+        "quality": "Good",
+        "amount": 300,
+        "unit": "kg",
+        "location": "Nongduang, Chanthabouly",
+        "availability": "In 2 Days",
+        "des": "Mixed metal scraps, mostly iron."
+    },
+    {
+        "type": "Donate",
+        "image": "https://cdn-icons-png.flaticon.com/512/4545/4545998.png",
+        "producttype": "Old Clothes",
+        "price": "Free",
+        "quality": "Fair",
+        "amount": 200,
+        "unit": "pieces",
+        "location": "Thanaleng, Hadxayfong",
+        "availability": "Now",
+        "des": "Various sizes, some minor wear."
+    },
+    {
+        "type": "Sell",
+        "image": "https://cdn-icons-png.flaticon.com/512/2809/2809509.png",
+        "producttype": "Plastic Bottles",
+        "price": "300 LAK/kg",
+        "quality": "Good",
+        "amount": 800,
+        "unit": "kg",
+        "location": "Dongdok, Xaythany",
+        "availability": "Now",
+        "des": "Mostly PET bottles, crushed."
+    },
+    {
+        "type": "Donate",
+        "image": "https://cdn-icons-png.flaticon.com/512/1046/1046759.png",
+        "producttype": "Used Electronics",
+        "price": "Free",
+        "quality": "Fair",
+        "amount": 50,
+        "unit": "items",
+        "location": "Sikhay, Sikhottabong",
+        "availability": "Next Month",
+        "des": "Old phones and laptops, some repairable."
+    },
+    {
+        "type": "Sell",
+        "image": "https://cdn-icons-png.flaticon.com/512/2721/2721049.png",
+        "producttype": "Wood Waste",
+        "price": "1000 LAK/kg",
+        "quality": "Good",
+        "amount": 700,
+        "unit": "kg",
+        "location": "Watnak, Sisattanak",
+        "availability": "Now",
+        "des": "Leftover wood from furniture production."
+    },
+    {
+        "type": "Donate",
+        "image": "https://cdn-icons-png.flaticon.com/512/2336/2336200.png",
+        "producttype": "Aluminum Cans",
+        "price": "Free",
+        "quality": "Good",
+        "amount": 500,
+        "unit": "kg",
+        "location": "Kualuang, Chanthabouly",
+        "availability": "In 3 Days",
+        "des": "Mostly soft drink cans, clean."
+    },
+    {
+        "type": "Sell",
+        "image": "https://cdn-icons-png.flaticon.com/512/2933/2933125.png",
+        "producttype": "Plastic Bags",
+        "price": "200 LAK/kg",
+        "quality": "Fair",
+        "amount": 600,
+        "unit": "kg",
+        "location": "Sailom, Xaysettha",
+        "availability": "Now",
+        "des": "Sorted by color, some minor dirt."
+    },
+    {
+        "type": "Donate",
+        "image": "https://cdn-icons-png.flaticon.com/512/4380/4380697.png",
+        "producttype": "Copper Wire",
+        "price": "Free",
+        "quality": "Good",
+        "amount": 150,
+        "unit": "kg",
+        "location": "Dongnathong, Sikhottabong",
+        "availability": "Next Week",
+        "des": "Stripped, ready for recycling."
+    }
+]
